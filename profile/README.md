@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to EarthMind
+
+EarthMind is a project that allows any protocol to delegate their governance decision to the EarthMind network.
+
+### Getting Started
+
+### Resources
+
+### Contribute to the Project
 
 <!--
 
